@@ -1,10 +1,10 @@
 # Setting Up on Local Machine
-cd to project directory
-git remote add origin https://barnettconsulting@bitbucket.org/barnettconsulting/test.git 
+cd to project directory  
+git remote add origin https://barnettconsulting@bitbucket.org/barnettconsulting/test.git  
 command | description
 --- | ---
-git init | create .git repository in current directory
-git status | shows status of commits
+git init | create .git repository in current directory  
+git status | shows status of commits  
 git add . | add all files recursively to staging area
 git add * | add all files to staging area
 git commit –m “msg” | commit staged files with a message
