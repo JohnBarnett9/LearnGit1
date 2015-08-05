@@ -1,6 +1,6 @@
 # Setting Up on Local Machine
 cd to project directory  
-git remote add origin https://barnettconsulting@bitbucket.org/barnettconsulting/test.git  
+```git remote add origin https://barnettconsulting@bitbucket.org/barnettconsulting/test.git``` 
 
 command | description  
 --- | ---  
