@@ -1,5 +1,7 @@
 # Setting Up on Local Machine
+
 cd to project directory
+
 git init			create .git repository in current directory
 git remote add origin https://barnettconsulting@bitbucket.org/barnettconsulting/test.git
 git status		shows status of commits
